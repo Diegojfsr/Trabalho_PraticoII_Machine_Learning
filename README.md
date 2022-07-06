@@ -47,12 +47,24 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 <li> Etapa X -  <a href=" https:// "> Acessar </a></li>
 </ul>
 
+<h2 dir="auto"> 📖 Anotações </h2>
+
+<h2 dir="auto"> 🔗 Links Úteis </h2>
+<ul dir="auto">
+<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html"> LabelEncoder </a></li>
+<li><a  href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html"> StandardScaler </a></li>
+</ul>
+
+<h2 dir="auto"> 📺 Videos Úteis </h2>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=ZPTAeXfaZ4g"> Codificando Variáveis Categóricas para Machine Learning </a></li>
+<li><a href="https://www.youtube.com/watch?v=RWaMw02_MQQ"> APRENDA QUANDO USAR "LabelEncoder" ou "One-Hot Encoder" </a></li>
+
+</ul>
+
 
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
-
-
-
 
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
