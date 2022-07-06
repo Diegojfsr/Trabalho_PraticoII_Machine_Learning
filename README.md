@@ -11,7 +11,7 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 
 
 <h4> 
- Link para o modelo usado como base: RF Classifier no Python: 
+ Link para o modelo base: RF Classifier no Python: 
 <a href="https://colab.research.google.com/drive/1wCCEFhDyeFtlzbx_Pevdb2hAYrr8MRND?usp=sharing"> <strong> Acessar </strong></a>
 </h4>
 
