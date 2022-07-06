@@ -23,10 +23,13 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos </h2>
 <ul dir="auto">
-<li> Requisito I -  <a href=" https:// "> Acessar </a></li>
-<li> Requisito II -   <a href=" https:// "> Acessar </a></li>
-<li> Requisito III -   <a href=" https:// "> Acessar </a></li>
-<li> Requisito IV -  <a href=" https:// "> Acessar </a></li>
+<li> Requisito I -  Realizar Análise Exploratório dos Dados (EDA). </li>
+<li> Requisito II -  Implementar técnicas de Eliminação de Outliers. </li>
+<li> Requisito III -   Tratar dados ausentes (NaN). </li>
+<li> Requisito IV -  Selecionar Variáveis (features). </li>
+<li> Requisito V -  Normalizar/Padronizar os dados de for necessário.  </li>
+<li> Requisito VI -  Realizar o tratamento de dados categóricos.   </li>
+<li> Requisito VII -  Implementar otimização de Parâmetros   </li>
 </ul>
 
 
