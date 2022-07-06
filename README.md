@@ -52,9 +52,10 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
 <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html"> LabelEncoder </a></li>
-<li><a  href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html"> StandardScaler </a></li>
-<li><a  href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> RandomForestClassifier </a></li>
-<li><a  href="https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial"> Titanic - Advanced Feature Engineering Tutorial </a></li>
+<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html"> StandardScaler </a></li>
+<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> RandomForestClassifier </a></li>
+<li><a href="https://runebook.dev/pt/docs/pandas/reference/api/pandas.core.resample.resampler.bfill"> Resampler.bfill </a></li>
+<li><a href="https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial"> Titanic - Advanced Feature Engineering Tutorial </a></li>
 </ul>
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
