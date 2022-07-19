@@ -17,7 +17,7 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 
 <h4> 
  Link para o Trabalho Prático II: 
-<a href="https://colab.research.google.com/drive/1TzdE5wOufNDQCufU8cq7ehKOrtLv3I9P#scrollTo=b-TJ0MDCCPds"> <strong> Acessar </strong></a>
+<a href="https://diegojfsr.notion.site/Trabalho-Pr-tico-II-Machine-Learning-a1b5785791ee415c9552257e9000dbb4"> <strong> Acessar </strong></a>
 </h4>
 
 
