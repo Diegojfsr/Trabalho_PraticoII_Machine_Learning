@@ -54,6 +54,8 @@ O trabalho consiste na elaboração de um algoritmo de Machine Learning para pro
 <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html"> LabelEncoder </a></li>
 <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html"> StandardScaler </a></li>
 <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> RandomForestClassifier </a></li>
+<li><a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html"> Fillna | method='bfill' </a></li>
+<li><a href="https://www.w3schools.com/python/ref_func_str.asp"> Função str() do Python </a></li>
 <li><a href="https://runebook.dev/pt/docs/pandas/reference/api/pandas.core.resample.resampler.bfill"> Resampler.bfill </a></li>
 <li><a href="https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial"> Titanic - Advanced Feature Engineering Tutorial </a></li>
 <li><a href="https://www.kaggle.com/code/vishnuvardhan97/titanic-disaster-survival-prediction-rf"> Titanic - Titanic Disaster Survival Prediction RF </a></li>
